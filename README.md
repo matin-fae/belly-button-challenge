@@ -8,5 +8,4 @@ Lines 28-32 modeled after script found on plotly: https://plotly.com/javascript/
 Lines 42-50 modeled after script found on plotly: https://plotly.com/javascript/bubble-charts/ <br>
 
 Files for this dataset provided by edX Bootcamps LLC.
-Data contained in Hulcr, J. et al. (2012) //+A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. 
-Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
+Data contained in Hulcr, J. et al.'s (2012) _A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable_. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
